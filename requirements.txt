@@ -9,9 +9,12 @@ hyperopt==0.2.5
 joblib==1.0.1
 lightgbm==3.1.1
 mlens==0.2.3
+modin==0.9.1
 optuna==2.6.0
 pandas==1.2.3
+pandas_profiling==2.11.0
 plotly==4.14.3
+pyfpgrowth==1.0
 scikit-learn==0.23.2
 scikit_optimize==0.8.1
 scipy==1.6.1
